@@ -1,0 +1,37 @@
+{
+	“personas”:[
+				{
+					‘nombre’: ‘Pedro Sanchez’,
+					‘ciudad’: ‘La Plata’,
+					‘edad’: 23
+					"hijos":[
+								{
+						'nombre':,
+						'edad':,
+								}
+					]
+				},
+				{
+					‘nombre’: ‘Juan Tevez’,
+					‘ciudad’: ‘La Plata’,
+					‘edad’: 23
+					"hijos":[
+								{
+						'nombre':,
+						'edad':,
+								}
+					]
+				},
+				{
+					‘nombre’: ‘Mario Scala’,
+					‘ciudad’: ‘La Plata’,
+					‘edad’:23
+					"hijos":[
+								{
+						'nombre':,
+						'edad':,
+								}
+					]
+				}
+	]
+}

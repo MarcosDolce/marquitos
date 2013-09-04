@@ -1,0 +1,38 @@
+<datos>
+	<persona>
+		<nombre>Pedro Sanchez</nombre>
+		<ciudad>La Plata</ciudad>
+		<edad>23</edad>
+		<club>River</club>
+		<hijo>
+			<nombre>Ezio</nombre>
+		</hijo>
+		<hijo>
+			<nombre>Giovanni</nombre>
+		</hijo>
+	</persona>
+	<persona>
+		<nombre>Juan Tevez</nombre>
+		<ciudad>La Plata</ciudad>
+		<edad>23</edad>
+		<club>River</club>
+		<hijo>
+			<nombre>Petruccio</nombre>
+		</hijo>
+		<hijo>
+			<nombre>Lorenzo</nombre>
+		</hijo>
+	</persona>
+	<persona>
+		<nombre>Mario Scala</nombre>
+		<ciudad>La Plata</ciudad>
+		<edad>23</edad>
+		<club>River</club>
+		<hijo>
+			<nombre>David</nombre>
+		</hijo>
+		<hijo>
+			<nombre>Guillermina</nombre>
+		</hijo>
+	</persona>
+</datos>
